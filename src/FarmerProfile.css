@@ -1,0 +1,53 @@
+.farmer-profile {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .farmer-profile h1 {
+    color: #2c3e50;
+  }
+  
+  .farmer-profile input {
+    padding: 8px;
+    margin-right: 10px;
+    width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .farmer-profile button {
+    padding: 8px 12px;
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .farmer-profile button:hover {
+    background-color: #219150;
+  }
+  
+  .farmer-profile ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .farmer-profile li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .farmer-profile li button {
+    background-color: #e74c3c;
+    padding: 4px 8px;
+  }
+  
+  .farmer-profile li button:hover {
+    background-color: #c0392b;
+  }
+  
